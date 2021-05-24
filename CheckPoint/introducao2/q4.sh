@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questão numero 4 
+# Question 4: Relative move
 
 cd /home/demo/work/misc && mv vimrc ../progs
 
