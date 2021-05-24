@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Questao numero 2 copiando arquivos com coringa *
+#Question 2: Wild copy
 
 cp /home/demo/*file* /home/demo/work
 
