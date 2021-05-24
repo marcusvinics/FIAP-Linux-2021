@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao 4 remove read and execute 
+# Question 4: Remove read and execute 
 
 chmod 255 /home/demo/scripts/
 
