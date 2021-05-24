@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questão numero 10 concat
+# Question 10: big concat
 
 cat thismonth yearfile2 thisyear > bigfile
 
