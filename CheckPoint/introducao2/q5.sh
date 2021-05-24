@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questão numero 5
+# Question 5: rename
 
 mv ../../bigfile ../tutorial/bigfile2
 
