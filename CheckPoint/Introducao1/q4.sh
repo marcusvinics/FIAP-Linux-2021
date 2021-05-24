@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao numero 4
+#Question 4: ls
 
 ls -a /home/demo | wc -l
 
