@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questão numero 7 
+#Question 7: tilde
 
 cd ~mysql
 pwd
