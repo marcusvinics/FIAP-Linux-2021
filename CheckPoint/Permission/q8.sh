@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao 8 add execute
+# Question 8: Add execute
 
 chmod 755 /home/demo/scripts/
 
