@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao 7 Add execute
+#Question 7: Impact of no x
 
 echo "resposta:"Could ls, but not access contents"
 
