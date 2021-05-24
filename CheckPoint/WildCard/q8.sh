@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao numero 8 softlink
+# Question 8: Soft link
 
 ln -s ../../thismonth /home/demo/work/progs/mylink
 
