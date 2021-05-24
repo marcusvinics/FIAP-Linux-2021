@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao 5 impact of no rx
+# Question 5: Impact of no rx
 
 echo "resposta: Cold no ls the directory"
 
