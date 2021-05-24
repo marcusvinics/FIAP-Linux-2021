@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao 9 read/write/execute for yourself, read and execute for group, but only execute for others
+# Question 9: umask
 
 #https://wintelguy.com/umask-calc.pl
 #Examples:
