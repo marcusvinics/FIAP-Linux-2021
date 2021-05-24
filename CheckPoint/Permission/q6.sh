@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao 6 add read
+# Question 6: Add read
 
 chmod 655 /home/demo/scripts/
 
