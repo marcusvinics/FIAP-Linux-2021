@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questão numero 7
+# Question 7: copying
 
 echo >> /home/demo/yearfile
 cp /home/demo/yearfile /home/demo/yearfile2
