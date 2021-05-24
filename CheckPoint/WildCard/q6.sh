@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao numero 6
+# Question 6: rm
 
 rm -r /home/demo/scripts/*r*
 
