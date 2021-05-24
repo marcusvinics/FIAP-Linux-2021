@@ -1,5 +1,5 @@
 #!/bin/bash
-# Questao 2 octal code 
+# Question 2: Octal Code
 
 stat -c %a /home/demo/bigfile
 
