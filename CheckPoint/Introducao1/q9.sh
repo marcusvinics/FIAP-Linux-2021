@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Questao numero 9 Deleting 
+#Question 9: deleting
 
 rm -r yearfile
 
